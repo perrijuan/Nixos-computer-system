@@ -104,6 +104,7 @@
   environment.systemPackages = with pkgs; [
   #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
   #  wget
+  # uso de pacotes basicos para o desenvolvimento de sistemas já configurado 
    pkgs.neovim
    pkgs.flatpak
    pkgs.git
