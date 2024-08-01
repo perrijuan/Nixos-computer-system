@@ -2,6 +2,9 @@
 # your system.  Help is available in the configuration.nix(5) man page
 # and in the NixOS manual (accessible by running ‘nixos-help’).
 
+#configuração para o uma instalação de nix usando uma maquina virutal lembrando que
+#são driveres genericos e um setup minimo para desenvolvimento 
+
 { config, pkgs, ... }:
 
 {
