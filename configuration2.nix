@@ -2,7 +2,7 @@
 # your system.  Help is available in the configuration.nix(5) man page
 # and in the NixOS manual (accessible by running ‘nixos-help’).
 
-
+#configuração para computadores com inteis e placas graficas nvidia 
 #configuração pessoal para um setup para desenvolvimento e uso de jogos 
 #uso de jogos usando a camada de compatibilidade wine :)
 
